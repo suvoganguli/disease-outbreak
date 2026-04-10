@@ -1,0 +1,32 @@
+"adm0_name","who_region","iso_3_code","first_epiwk","last_epiwk","case_total","death_total"
+"AFGHANISTAN","Eastern Mediterranean Region","AFG",2023-01-02,2023-12-25,222221,97
+"BANGLADESH","South-East Asia Region","BGD",2023-01-02,2023-12-04,158,0
+"BURUNDI","African Region","BDI",2023-01-09,2023-12-25,1347,9
+"CAMEROON","African Region","CMR",2023-01-02,2023-12-25,6477,209
+"CONGO","African Region","COG",2023-07-24,2023-08-21,69,5
+"DEMOCRATIC REPUBLIC OF THE CONGO","African Region","COD",2023-01-02,2023-12-25,51493,430
+"DOMINICAN REPUBLIC","Region of the Americas","DOM",2023-03-06,2023-12-25,180,5
+"ESWATINI","African Region","SWZ",2023-03-27,2023-07-24,3,0
+"ETHIOPIA","African Region","ETH",2023-01-02,2023-12-25,30405,446
+"HAITI","Region of the Americas","HTI",2023-01-02,2023-12-25,56841,784
+"INDIA","South-East Asia Region","IND",2023-01-23,2023-12-18,5436,14
+"IRAQ","Eastern Mediterranean Region","IRQ",2023-09-25,2023-12-25,1376,7
+"KENYA","African Region","KEN",2023-01-16,2023-12-04,8926,145
+"LEBANON","Eastern Mediterranean Region","LBN",2023-01-02,2023-05-29,2386,0
+"MALAWI","African Region","MWI",2023-01-02,2023-12-25,41698,1140
+"MOZAMBIQUE","African Region","MOZ",2023-01-02,2023-12-25,39908,156
+"NEPAL","South-East Asia Region","NPL",2023-01-02,2023-11-27,14,0
+"NIGERIA","African Region","NGA",2023-01-02,2023-12-25,3683,128
+"PAKISTAN","Eastern Mediterranean Region","PAK",2023-04-17,2023-12-25,16950,0
+"PHILIPPINES","Western Pacific Region","PHL",2023-01-02,2023-11-27,3756,19
+"SOMALIA","Eastern Mediterranean Region","SOM",2023-01-02,2023-12-25,18304,46
+"SOUTH AFRICA","African Region","ZAF",2023-08-28,2023-12-04,1391,47
+"SOUTH SUDAN","African Region","SSD",2023-02-20,2023-05-29,1473,2
+"SUDAN","Eastern Mediterranean Region","SDN",2023-06-26,2023-12-25,8833,246
+"SYRIAN ARAB REPUBLIC","Eastern Mediterranean Region","SYR",2023-01-02,2023-12-11,180288,7
+"TOGO","African Region","TGO",2023-12-11,2023-12-11,1,0
+"UGANDA","African Region","UGA",2023-07-24,2023-08-28,87,10
+"UNITED REPUBLIC OF TANZANIA","African Region","TZA",2023-01-16,2023-12-25,1068,23
+"YEMEN","Eastern Mediterranean Region","YEM",2023-01-02,2023-12-25,8815,22
+"ZAMBIA","African Region","ZMB",2023-01-09,2023-12-25,4095,117
+"ZIMBABWE","African Region","ZWE",2023-02-13,2023-12-25,14517,320
