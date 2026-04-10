@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep processed small files if needed)
+data/raw/*
+!data/raw/.gitkeep
+
+# Mac
+.DS_Store
+
+# Outputs
+#outputs/models/*
+#!outputs/models/.gitkeep
+
+#outputs/figures/*
+#!outputs/figures/.gitkeep
